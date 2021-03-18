@@ -1,0 +1,9 @@
+***Add Some UI Libraries
+
+npm install bootstrap --save
+
+npm install font-awesome --save
+
+npm install angular-material --save
+
+ng add @ng-bootstrap/ng-bootstrap
