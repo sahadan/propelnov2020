@@ -8,6 +8,7 @@ public class SpringDataJpaMappingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataJpaMappingApplication.class, args);
+		System.out.println("Welcome git repo...");
 	}
 
 }
